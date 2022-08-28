@@ -14,3 +14,7 @@ numpy
 
 
 opencv
+
+
+
+keras
