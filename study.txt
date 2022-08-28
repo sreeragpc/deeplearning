@@ -4,3 +4,13 @@ tensor flow
 
 
 pytorch
+
+
+
+
+numpy
+
+
+
+
+opencv
