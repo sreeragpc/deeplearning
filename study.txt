@@ -18,3 +18,8 @@ opencv
 
 
 keras
+
+
+
+
+nn
